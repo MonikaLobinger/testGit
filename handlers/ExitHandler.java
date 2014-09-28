@@ -1,3 +1,4 @@
+// Immer werden die Kommentare vergessen
 package my.test.notes.handlers;
 
 import org.eclipse.e4.core.di.annotations.Execute;
