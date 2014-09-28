@@ -10,6 +10,7 @@ import my.test.notes.model.ITodoService;
 import my.test.notes.model.Todo;
 import my.test.notes.wizards.TodoWizard;
 
+/** Und noch ein Kommentar **/
 public class NewTodoHandler
 {
 @Execute

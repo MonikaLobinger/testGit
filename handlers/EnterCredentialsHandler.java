@@ -6,6 +6,7 @@ import org.eclipse.swt.widgets.Shell;
 
 import my.test.notes.dialogs.PasswordDialog;
 
+/** Und noch ein Kommentar **/
 public class EnterCredentialsHandler
 {
 @Execute

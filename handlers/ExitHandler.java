@@ -6,6 +6,7 @@ import org.eclipse.jface.dialogs.MessageDialog;
 import org.eclipse.swt.widgets.Shell;
 
 
+/** Und noch ein Kommentar **/
 public class ExitHandler
 {
 @Execute
